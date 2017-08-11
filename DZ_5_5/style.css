@@ -1,0 +1,158 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: Tahoma;
+	font-size: 14.5px;
+}
+.main {
+	background-color: rgba(202, 202, 202, 0.92);
+	padding: 58px;
+	width: 580px;
+	height:1500px;
+	margin: 0 auto;
+	position:relative;
+}
+.wrap {
+	background-color: #fff;
+	width: 580px;
+	height: 1450px;
+	margin-top:-5px;
+	padding: 0px;
+}
+header {
+	zoom:0.454;
+	margin-left:1px;
+	margin-top:-10px;
+	position:absolute;
+}
+.text {
+	margin-left: 45px;
+	margin-right: 60px;
+}
+.friends {
+	text-align:center;
+}
+p {
+	line-height:24px;
+}
+.stomach {
+	zoom: 0.46;
+}
+.i1{
+	float: left;
+	border: 0;
+	width: 250px;
+	margin: 0px 45px;
+}
+.lips {
+	zoom: 0.46;
+}
+.i2 {
+	width:250px;
+	margin: -315px 25px;
+	border: 0;
+	float:right;
+}
+.button1 {
+	background-color: rgba(230, 88, 88, 0.86);
+	margin-top:30px;
+	width: 240px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	border-radius: 5px;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.i3 {
+	width:155px;
+	margin: 25px 45px;
+	border: 0;
+	float:left;
+}
+.heart {
+	zoom: 0.46;
+}
+.button2 {
+	background-color: rgba(230, 88, 88, 0.86);
+	margin-top:32px;
+	width: 150px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	border-radius: 5px;
+	font-weight: bold;
+	line-height: 40px;
+}
+.i4 {
+	width:145px;
+	margin: -365px 215px;
+	border: 0;
+	float:right;
+}
+.back {
+	zoom: 0.46;
+}
+.button3 {
+	background-color: rgba(230, 88, 88, 0.86);
+	margin-top:5.5px;
+	width: 150px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	border-radius: 5px;
+	font-weight: bold;
+	line-height: 40px;
+}
+.i5 {
+	width:150px;
+	margin: -365px 40px;
+	border: 0;
+	float:right;
+}
+.corpus {
+	zoom: 0.46;
+}
+.button3 {
+	background-color: rgba(230, 88, 88, 0.86);
+	margin-top:5.5px;
+	width: 150px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	border-radius: 5px;
+	font-weight: bold;
+	line-height: 40px;
+}
+.text2 {
+	margin-left: 45px;
+	margin-top:680px;
+	margin-right:45px;
+}
+.link {
+	color:blue;
+}
+.button4 {
+	background-color: rgba(230, 88, 88, 0.86);
+	margin-top:20px;
+	margin-left:40px;
+	width: 500px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	border-radius: 5px;
+	font-weight: bold;
+	line-height: 40px;
+}
+.text3 {
+	font-size: 10px;
+	font-weight:bold;
+	margin-top:-10px;
+	margin-left: 30px;
+	color:white;
+	text-align:center;
+	line-height:24px;
+}
